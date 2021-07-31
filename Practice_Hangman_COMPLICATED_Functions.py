@@ -1,4 +1,5 @@
 #hangman = [" O", "/|\\", " |", " |", "/ \\"]
+#####################Unfinished and pretty useless code, just setting up the github and making sure it is working for forum posts.
 import random
 import copy
 
